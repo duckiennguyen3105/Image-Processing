@@ -38,5 +38,7 @@ Chào mừng đến với hướng dẫn chạy code xử lí ảnh
                 python3 setup.py install --yes USE_AVX_INSTRUCTIONS
                 
 Nếu phát sinh lỗi, hãy liên hệ về vào địa chỉ: 
+
 FB: https://www.facebook.com/kiennguyen3105
+
 Gmail: duckiennguyen3105@gmail.com
