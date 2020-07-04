@@ -4,7 +4,7 @@ Chào mừng đến với hướng dẫn chạy code xử lí ảnh
 
 !! Lưu ý: chỉ chạy được trên hệ điều hành Linux
 
-        1, Phải cài đặt Python 3, link cài đặt: https://www.python.org/download
+        1, Phải cài đặt Python 3, link cài đặt: https://www.python.org/downloads/
 
         2, Chạy câu lệnh dưới đây trong terminal để cài đặt thư viện: 
                 apt-get install -y --fix-missing \
