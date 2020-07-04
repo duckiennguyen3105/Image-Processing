@@ -33,6 +33,6 @@ Chào mừng đến với hướng dẫn chạy code xử lí ảnh
            3, Chạy câu lệnh dưới đây để git clone code về:
                 cd ~ && \
                 mkdir -p image_processing && \
-                git clone -b 'v19.9' --single-branch https://github.com/davisking/dlib.git image_processing/ && \
-                cd  dlib/ && \
+                git clone https://github.com/duckiennguyen3105/Image-Processing.git image_processing/ && \
+                cd  image_processing/ && \
                 python3 setup.py install --yes USE_AVX_INSTRUCTIONS
