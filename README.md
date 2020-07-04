@@ -36,3 +36,7 @@ Chào mừng đến với hướng dẫn chạy code xử lí ảnh
                 git clone https://github.com/duckiennguyen3105/Image-Processing.git image_processing/ && \
                 cd  image_processing/ && \
                 python3 setup.py install --yes USE_AVX_INSTRUCTIONS
+                
+Nếu phát sinh lỗi, hãy liên hệ về vào địa chỉ: 
+FB: https://www.facebook.com/kiennguyen3105
+Gmail: duckiennguyen3105@gmail.com
